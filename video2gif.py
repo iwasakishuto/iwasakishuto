@@ -60,9 +60,9 @@ if __name__ == "__main__":
         i+=1
         ret, img_bgr = video.read()
         if not ret: 
-            sys.stdout.write(f"\r Finished.")
+            sys.stdout.write(f"\r Frame No.{i} ({toGREEN('Finished.')}")
             break
-        if i%7==0:        
+        if i%speed==0:        
             img_rgb = cv2.cvtColor(img_bgr, cv2.COLOR_BGR2RGB)
             img_pillow = Image.fromarray(img_rgb).resize(size=(re_width, re_height)).quantize(method=0)
             images.append(img_pillow)
