@@ -2,15 +2,15 @@
 <a href="https://iwasakishuto.github.io/"><img src="https://img.shields.io/badge/portfolio-iwasakishuto.github.io-071d34?style=flat-square" alt="portfolio badge"></a> <a href="https://twitter.com/cabernet_rock"><img src="https://img.shields.io/badge/twitter-cabernet__rock-1da1f2?style=flat-square&logo=twitter" alt="twitter badge"></a> <a href="https://github.com/iwasakishuto"><img src="https://img.shields.io/badge/github-cabernet__rock-000000?style=flat-square&logo=github" alt="github badge"></a>
 <br>
 <a href="https://pypi.org/project/Translation-Gummy/">
-  <img src="https://img.shields.io/badge/Translation--Gummy-blue" alt="Translation-Gummy"><img src="https://badge.fury.io/py/Translation-Gummy.svg" alt="PyPI version">
+  <img src="https://img.shields.io/badge/Translation--Gummy-blue" alt="Translation-Gummy's budge"><img src="https://badge.fury.io/py/Translation-Gummy.svg" alt="PyPI version">
 </a>
 <br>
 <a href="https://pypi.org/project/kerasy/">
-  <img src="https://img.shields.io/badge/kerasy-blue" alt="kerasy"><img src="https://badge.fury.io/py/kerasy.svg" alt="PyPI version">
+  <img src="https://img.shields.io/badge/kerasy-blue" alt="kerasy's budge"><img src="https://badge.fury.io/py/kerasy.svg" alt="PyPI version">
 </a>
 <br>
-<a href="https://pypi.org/project/PyGuitar/">
-  <img src="https://img.shields.io/badge/PyGuitar-blue" alt="kerasy"><img src="https://badge.fury.io/py/PyGuitar.svg" alt="PyPI version">
+<a href="https://pypi.org/project/Python-Charmers/">
+  <img src="https://img.shields.io/badge/Python--Charmers-blue" alt="Python-Charmers's budge"><img src="https://badge.fury.io/py/PyGuitar.svg" alt="PyPI version">
 </a>
 
 <!-- 
